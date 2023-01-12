@@ -66,6 +66,10 @@
     background-color: rgb(99, 84, 84);
     margin: 0 auto;
   }
+  .logo img {
+    border-radius: 50%;
+    border: 2px solid black;
+  }
   
   #cxnu {
     padding: 1.5vw 0vw 0vw;
@@ -132,6 +136,9 @@
     border-width: 0.3vw;
     border-radius: 50%;
     display: block;
+  }
+  .rds img {
+    border-radius: 50%;
   }
   
   .tp1 {
